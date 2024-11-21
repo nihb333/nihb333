@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nihb333
-- 👀 I’m interested in network observability
-- 🌱 I’m currently learning about github and marketing (dont ask)
+- 👀 I’m interested in BGP - anything BGP :)
+- 🌱 I’m currently learning about github
 - 💞️ I’m looking to collaborate on numerous items
 - 📫 How to reach me nihbster@gmail.com or nihb on #ix
 
